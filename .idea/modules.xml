@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StringVsStringBuilder.iml" filepath="$PROJECT_DIR$/StringVsStringBuilder.iml" />
+    </modules>
+  </component>
+</project>
